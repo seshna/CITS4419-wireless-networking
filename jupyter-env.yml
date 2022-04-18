@@ -1,0 +1,17 @@
+name: cits5508-2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.5
+  - tensorflow=2.4.1
+  - tensorflow-datasets
+  - scikit-learn
+  - scikit-learn-intelex
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - seaborn
+  - python-graphviz
+  - graphviz
+  - openpyxl
