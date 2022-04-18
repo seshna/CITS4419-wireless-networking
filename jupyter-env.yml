@@ -1,4 +1,4 @@
-name: cits5508-2022
+name: jupyter-env
 channels:
   - conda-forge
   - defaults
